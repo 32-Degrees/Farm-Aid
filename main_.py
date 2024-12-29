@@ -39,9 +39,9 @@ def quit_program():
 
 connection = sql.connect(
     user="root",
-    password="hydrogenflouride",
+    password="<your password>",
     host="localhost",
-    database="smart_farming"
+    database="<your db>"
 )
 
 cursor = connection.cursor()
