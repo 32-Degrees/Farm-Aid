@@ -1,3 +1,5 @@
+#Farm-Aid
+
 Farmaid is an innovative smart farming solution designed to empower farmers with technology-driven tools to optimize agricultural practices and enhance yields
 
 1) Grain Price Information: Real-time updates on market prices to help farmers make informed selling decisions.
